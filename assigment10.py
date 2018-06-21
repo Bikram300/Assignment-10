@@ -53,7 +53,7 @@ print(a.g(), b.g())
 #Mr.SINGH
 
 
-'''Ques 4. Create a class Cop. Initialize its name, age , work experience and designation. Define methods to add,
+'''Ques 3. Create a class Cop. Initialize its name, age , work experience and designation. Define methods to add,
 display and update the following details. Create another class Mission which extends the class Cop. Define method
 add_mission _details. Select an object of Cop and access methods of base class to get information for a particular
  cop and make it available for mission.'''
